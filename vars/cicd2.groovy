@@ -1,7 +1,7 @@
 
 def newGit(repo)
 {
- git /https://github.com/navyagubba/${repo}"
+ git "https://github.com/navyagubba/${repo}"
 }
 
 def newMaven()
